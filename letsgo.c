@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main(){//Another comment from repository 2(machine 2)
 
 printf("Git, let's go!!\n");
 printf("added line 1\n");
